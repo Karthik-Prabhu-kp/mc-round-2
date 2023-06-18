@@ -1,0 +1,16 @@
+{
+  "Habits": [
+    {
+      "id": 1,
+      "name": "Drink Water",
+      "repeat": "Daily",
+      "goal": "1 time a day"
+    },
+    {
+      "id": 2,
+      "name": "Read a book",
+      "repeat": "Daily",
+      "goal": "1 time a day"
+    }
+  ]
+}
